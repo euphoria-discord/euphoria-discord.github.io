@@ -350,7 +350,7 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
+.css {
   	width: 5%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
@@ -376,7 +376,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 5%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes css {
   0%   { width: 0px;  }
   100% { width: 5%;  }
 }
@@ -401,7 +401,7 @@ ul#nav li.current a { color: #F06000; }
     0%   { width: 0px;  }
     100% { width: 5%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes css {
     0%   { width: 0px;  }
     100% { width: 5%;  }
 }
